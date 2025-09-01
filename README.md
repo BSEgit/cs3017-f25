@@ -1,2 +1,10 @@
-# cs3017-f25
-Basic Webpage for CS-3017
+# WEBSITE
+
+## subheader
+https://youtube.com
+
+**emphasis**
+
+*hi there*
+
+~~strikethrough~~
