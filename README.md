@@ -20,6 +20,8 @@
 
 *hi there*
 
+[class 3](class3)
+
 ~~strikethrough~~
 
 1. hi
