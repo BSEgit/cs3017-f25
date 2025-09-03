@@ -20,7 +20,7 @@
 
 *hi there*
 
-[class 3](class3)
+[class 3](class3.md)
 
 ~~strikethrough~~
 
