@@ -28,3 +28,7 @@
 2. there
    1. sublist
    2. fire
+
+# Example Image
+
+![](trees.png)
